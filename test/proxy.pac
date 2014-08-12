@@ -1109,6 +1109,7 @@ var domains = {
   "epochtimes.ru": 1, 
   "chinatimes.com": 1, 
   "j.mp": 1, 
+  "doubleclick.net": 1, 
   "voachinese.com": 1, 
   "laoyang.info": 1, 
   "codeshare.io": 1, 

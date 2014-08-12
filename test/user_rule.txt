@@ -12,3 +12,4 @@ gstatic.com
 googletagservices.com
 recaptcha.net
 erepublik.com
+doubleclick.net
