@@ -565,6 +565,7 @@ var domains = {
   "exploader.net": 1, 
   "roodo.com": 1, 
   "tbpic.info": 1, 
+  "googletagservices.com": 1, 
   "putlocker.com": 1, 
   "eevpn.com": 1, 
   "dafagood.com": 1, 
@@ -2471,7 +2472,7 @@ var domains = {
   "1-apple.com.tw": 1
 };
 
-var proxy = "PROXY 127.0.0.1:8118; DIRECT;";
+var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var direct = 'DIRECT;';
 
