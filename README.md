@@ -22,6 +22,11 @@ Generate O(1) PAC file from gfwlist.
       --user-rule USER_RULE
                             user rule file, which will be appended to gfwlist
 
+### Usage Example
+
+    A command usage example is in test/run.sh.
+    A user defined rule file is in test/user_rule.txt
+
 ### Performance
 
 An example of generated PAC file is [here][example].
