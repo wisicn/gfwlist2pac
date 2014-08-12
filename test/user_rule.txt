@@ -9,5 +9,6 @@ gmail.com
 google.com.hk
 googleapis.com
 gstatic.com
+googletagservices.com
 recaptcha.net
 erepublik.com
