@@ -13,3 +13,4 @@ googletagservices.com
 recaptcha.net
 erepublik.com
 doubleclick.net
+cdninstagram.com
