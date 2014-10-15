@@ -1,11 +1,11 @@
 from setuptools import setup
 
-with open('README.rst') as f:                                                                   
+with open('README.rst') as f:
     long_description = f.read()
 
 setup(
     name="gfwlist2pac",
-    version="1.0.6",
+    version="1.0.8",
     license='MIT',
     description="convert gfwlist2pac to pac",
     author='clowwindy',

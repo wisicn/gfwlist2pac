@@ -14,3 +14,4 @@ recaptcha.net
 erepublik.com
 doubleclick.net
 cdninstagram.com
+bbc.co.uk
