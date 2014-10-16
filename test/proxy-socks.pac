@@ -1870,6 +1870,7 @@ var domains = {
   "imkev.com": 1, 
   "websitepulse.com": 1, 
   "listorious.com": 1, 
+  "android.com": 1, 
   "open.com.hk": 1, 
   "youversion.com": 1, 
   "rlwlw.com": 1, 
