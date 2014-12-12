@@ -18,3 +18,4 @@ bbc.co.uk
 bbci.co.uk
 gfwhiking.org
 android.com
+@@amazon.com
