@@ -2490,7 +2490,7 @@ var domains = {
   "1-apple.com.tw": 1
 };
 
-var proxy = "PROXY 192.168.1.1:8118; DIRECT;";
+var proxy = "PROXY 10.10.88.1:8118; DIRECT;";
 
 var direct = 'DIRECT;';
 
