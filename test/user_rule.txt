@@ -19,3 +19,4 @@ bbci.co.uk
 gfwhiking.org
 android.com
 @@amazon.com
+katespade.com

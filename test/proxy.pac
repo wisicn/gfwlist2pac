@@ -1152,6 +1152,7 @@ var domains = {
   "pastie.org": 1, 
   "web2project.net": 1, 
   "aisex.com": 1, 
+  "katespade.com": 1, 
   "curvefish.com": 1, 
   "slime.com.tw": 1, 
   "marxists.org": 1, 
