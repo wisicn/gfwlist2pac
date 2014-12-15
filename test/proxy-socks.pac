@@ -1987,6 +1987,7 @@ var domains = {
   "orchidbbs.com": 1, 
   "china21.org": 1, 
   "bbcchinese.com": 1, 
+  "childrensplace.com": 1, 
   "af.mil": 1, 
   "pin6.com": 1, 
   "sankaizok.com": 1, 
