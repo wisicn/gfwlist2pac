@@ -22,3 +22,4 @@ android.com
 katespade.com
 childrensplace.com
 www.toryburch.com
+goo.gl
