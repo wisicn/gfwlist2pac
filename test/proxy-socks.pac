@@ -852,6 +852,7 @@ var domains = {
   "toryburch.com": 1, 
   "storify.com": 1, 
   "privatetunnel.com": 1, 
+  "twimg.edgesuite.net": 1, 
   "kinghost.com": 1, 
   "cdig.info": 1, 
   "usgs.gov": 1, 
