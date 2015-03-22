@@ -27,3 +27,4 @@ v2ex.com
 appledaily.com.tw
 twimg.edgesuite.net
 fake-replace-twimg-edgesuite.com
+blogspot.com

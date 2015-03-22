@@ -2232,6 +2232,7 @@ var domains = {
   "xinhuanet.org": 1, 
   "yorkbbs.ca": 1, 
   "scribd.com": 1, 
+  "blogspot.com": 1, 
   "unblocksit.es": 1, 
   "taragana.com": 1, 
   "kl.am": 1, 
