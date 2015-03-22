@@ -706,6 +706,7 @@ var domains = {
   "picturesocial.com": 1, 
   "bullogger.com": 1, 
   "888.com": 1, 
+  "edgesuite.net": 1, 
   "whylover.com": 1, 
   "offbeatchina.com": 1, 
   "seezone.net": 1, 
