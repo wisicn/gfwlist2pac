@@ -1,4 +1,5 @@
 !this is a user defined rule
+<<<<<<< HEAD
 google.com
 googlecode.com
 twitter.com
