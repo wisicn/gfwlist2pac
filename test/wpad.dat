@@ -1929,6 +1929,7 @@ var domains = {
   "89-64.org": 1, 
   "taiwanonline.cc": 1, 
   "linglingfa.com": 1, 
+  "imgur.com": 1, 
   "juziyue.com": 1, 
   "ruanyifeng.com": 1, 
   "cnyes.com": 1, 
