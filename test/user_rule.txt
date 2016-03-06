@@ -39,3 +39,4 @@ gvt3.com
 blogspot.tw
 imgur.com
 fastly.net
+cdn.shopify.com
