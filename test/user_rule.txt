@@ -40,3 +40,5 @@ blogspot.tw
 imgur.com
 fastly.net
 cdn.shopify.com
+cdn.whatsapp.net
+bbc.com
