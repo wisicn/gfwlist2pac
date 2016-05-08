@@ -639,6 +639,7 @@ var domains = {
   "parislemon.com": 1, 
   "mtw.tl": 1, 
   "ziddu.com": 1, 
+  "tumblr.com": 1, 
   "internationalrivers.org": 1, 
   "ttv.com.tw": 1, 
   "tv.com": 1, 
