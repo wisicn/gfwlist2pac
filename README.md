@@ -1,6 +1,8 @@
 GFWList2PAC
 ===========
 
+This one is deperaced. please see [wisicn/run_gfwlist2pac](https://github.com/wisicn/run_gfwlist2pac)
+
 Generate fast PAC file from gfwlist. Examples: [fast mode] / [precise mode].
 
 Fast mode: use O(1) domain lookup
