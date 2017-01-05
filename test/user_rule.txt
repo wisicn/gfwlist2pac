@@ -43,3 +43,4 @@ cdn.shopify.com
 cdn.whatsapp.net
 bbc.com
 tumblr.com
+medium.com
